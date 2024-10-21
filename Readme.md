@@ -20,7 +20,7 @@ They are:
 - 10 / 15 / 3 / 5
 - 10 / 15 / 4 / 5
 
-![[6x6-minimal-killer.png]]
+![](6x6-minimal-killer.png)
 [SudokuPad](https://sudokupad.app/fpuzN4IgzglgXgpiBcA2ANCALhNAbO8QFkIA7CAWwEMsACRAdcSoGkIscAnKgZQFcATAewDW3EKnLc0AC35sEITgAdy5ImBhUAZFQBqM8gLCiQbbjjVo5AORkVqYPkO5UTZquQUKsATwB0AHSJmVhg2eCoAEQgAc0wwKmIqAGNyKJg45KIifjRnGAUYchyVXipSbjAc+1IqNH4ayXVatEoqGIA3GCIfIyi2CF4EAG1B4ABfZDGJ8cmZ0YBdZBHp5anVsYWltZXZjdmtrd3to6nD/b31hZBBFnZk1KHQRJhWQ3hBkAAlAEYAYQBmIwfABM/xAlzalG4uBAAOmICeLyGnxBABZAX9QagPhi0eDIdCAOwgOEIrCvd4fFE/L6AgCs1LBqAhWChci+NJJzzJSMpP1pdL5jJAzNZeAAHMTLmB+CyMPwiEi0ah+aggUZEEYaagAdr1ZqjGrUEqQCqQIaYUZjVqTXrUBrUNbTTqzZajKbzc7jfaQNbrV63UZnWq5qMgA)
 
 ## The code
